@@ -1,0 +1,2 @@
+# crudresourcecontoller
+Laravel crud
